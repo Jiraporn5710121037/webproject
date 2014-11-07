@@ -43,16 +43,13 @@
 						<div class="address">
 							<span><span>A</span>ddress:</span>
 							<p>
-								1234 Nowhere County, Highway 56, Nowhereland, Nowhere 78910
+								อาคารวัจัยวิศวกรรมประยุกต์ สิรินธร
 							</p>
 							<span><span>P</span>hone <span>N</span>umber:</span>
 							<p>
-								1-800-999-9999 or 1-800-111-1111
+								074-287430
 							</p>
-							<span><span>F</span>ax <span>N</span>umber:</span>
-							<p>
-								1-800-222-2222
-							</p>
+						
 						</div>
 						<h3><span>F</span>or <span>A</span>ny <span>I</span>nquiries, <span>P</span>lease <span>F</span>ill <span>o</span>ut <span>T</span>he <span>F</span>orm <span>B</span>elow.</h3>
 						<form action="index.html">
