@@ -17,7 +17,7 @@
 					<a href="about.html"><span>A</span>bout</a>
 				</li>
 				<li>
-					<a href="blog.html"><span>P</span>rograms</a>
+					<a href="blog.html"><span>S</span>tudent</a>
 				</li>
 				<li>
 					<a href="staff.html"><span>L</span>ecturer</a>
@@ -107,5 +107,46 @@
 				</p>
 				
 			</div>
+			<div>
+				<h4>Quick Access</h4>
+				<ul>
+					<li>
+						<p>
+							<a href="http://www.psu.ac.th/th/">PSU</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<a href="http://lms.psu.ac.th/">LMS @PSU</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<a href="http://reg.psu.ac.th/">PSU Registration Office</a>
+						</p>
+						</li>
+						<li>
+						<p>
+							<a href="http://www.grad.psu.ac.th/">PSU Graduate School</a>
+						</p>
+						</li>
+						<li>
+						<p>
+							<a href="http://www.clib.psu.ac.th/home/">PSU Library</a>
+						</p>
+						</li>
+				</ul>
+			</div>
+			<div class="connect">
+				<h4>Social Network</h4>
+				<a href="https://www.facebook.com/MITPSU?fref=ts" class="facebook">Facebook</a>
+				<br>
+				<a href="https://webmail.psu.ac.th/webmail/src/login.php" class="Email">Email #PSU</a>
+				<br>
+				<a href="http://www.youtube.com/" class="youtube">Youtube</a>
+			</div>
+		</div>
+		
+	</div>
 </body>
 </html>
